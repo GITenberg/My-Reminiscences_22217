@@ -1,0 +1,34 @@
+_repo: My-Reminiscences_22217
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hesh, Sasi Kumar
+    gutenberg_agent_id: '25186'
+    url: http://www.gutenberg.org/2009/agents/25186
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tagore, Rabindranath
+    birthdate: 1861
+    deathdate: 1941
+    gutenberg_agent_id: '942'
+    url: http://www.gutenberg.org/2009/agents/942
+    wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
+description: ''
+gutenberg_bookshelf: India
+gutenberg_issued: '2007-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Bengali -- 20th century -- Biography'
+- !lcc 'PK'
+- !lcsh 'Tagore, Rabindranath, 1861-1941'
+title: My Reminiscences
+url: http://www.gutenberg.org/ebooks/22217
