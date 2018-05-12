@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/942
     wikipedia: http://en.wikipedia.org/wiki/Rabindranath_Tagore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22217#My-Reminiscences
 gutenberg_bookshelf: India
 gutenberg_issued: '2007-08-02'
 gutenberg_type: Text
